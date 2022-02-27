@@ -57,7 +57,6 @@
 </head>
 
 <body>
-    
         <nav class="navbar navbar-expand-sm bg-light navbar-primary sticky-top">
           <a class="navbar-brand"><h4>โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านดอนคา</h4></a>
             <ul class="navbar-nav">
